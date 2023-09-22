@@ -1,16 +1,7 @@
-# bitcoin_app
+# Crypto_app
 
-A new Flutter project.
+A crypto app made with flutter.The current market price of various cryptocurrencies can be known through this app.
 
-## Getting Started
+## Video Demo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/sazzad700/Crypto_rate/assets/102316710/93b0e08a-473d-4211-9a06-3de339c05260
